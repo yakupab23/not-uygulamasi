@@ -1,0 +1,4 @@
+﻿# Gitmesini istemedigim dosyalar
+gecici.txt
+*.log
+.DS_Store
