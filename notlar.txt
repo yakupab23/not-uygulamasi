@@ -12,3 +12,4 @@ pwd : Şu an hangi klasörde olduğumu gösterir.
 4.⁠ ⁠git remote -v - Yerel reponun bağlı olduğu uzak depo adreslerini gösterir.
 5.⁠ ⁠git log --oneline - Commit geçmişini her commit tek satır olacak şekilde listeler.
 
+bu sat�r pull request i�in eklendi
