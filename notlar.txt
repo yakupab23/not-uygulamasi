@@ -1,0 +1,5 @@
+ls :  Bulunduðum klasördeki dosya ve klasörleri listeler.
+cd : Baþka bir klasöre geçmemi saðlar.
+mkdir : Yeni bir klasör oluþturur.
+cat : Bir dosyanýn içeriðini terminalde ekrana yazdýrýr.
+pwd : Þu an hangi klasörde olduðumu gösterir.
