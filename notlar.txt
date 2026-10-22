@@ -1,5 +1,14 @@
-ls :  Bulundu�um klas�rdeki dosya ve klas�rleri listeler.
-cd : Ba�ka bir klas�re ge�memi sa�lar.
-mkdir : Yeni bir klas�r olu�turur.
-cat : Bir dosyan�n i�eri�ini terminalde ekrana yazd�r�r.
-pwd : �u an hangi klas�rde oldu�umu g�sterir.
+ls :  Bulunduğum klasördeki dosya ve klasörleri listeler.
+cd : Başka bir klasöre geçmemi sağlar.
+mkdir : Yeni bir klasör oluşturur.
+cat : Bir dosyanın içeriğini terminalde ekrana yazdırır.
+pwd : Şu an hangi klasörde olduğumu gösterir.
+
+İkinci Hafta Git Notlarım
+
+1.⁠ ⁠git checkout -b <ad> - Yeni bir branch oluşturup hemen o branch'e geçer.
+2.⁠ ⁠git add . - Klasördeki tüm yeni ve değişen dosyaları staging alanına ekler.
+3.⁠ ⁠git commit -m "mesaj" - Staging'deki değişiklikleri yerel depoya kayıt olarak ekler.
+4.⁠ ⁠git remote -v - Yerel reponun bağlı olduğu uzak depo adreslerini gösterir.
+5.⁠ ⁠git log --oneline - Commit geçmişini her commit tek satır olacak şekilde listeler.
+
